@@ -1,6 +1,6 @@
 # Hi, I'm Vishal Fulsundar 👋
 
-MS Data Science @ George Washington University (GPA 3.81) · Mountain View, CA  
+MS Data Science @ George Washington University (GPA 3.81)  
 Building production ML systems, multi-agent AI pipelines, and LLM research.  
 Previously founded a B2C SaaS startup (200 shops, 10K customers) and shipped ML in production at Xampus.
 
