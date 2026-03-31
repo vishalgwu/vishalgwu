@@ -6,6 +6,7 @@ Previously founded a B2C SaaS startup (200 shops, 10K customers) and shipped ML 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vishalfulsundar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishalfulsundar/)
 [![Email](https://img.shields.io/badge/Email-vishalfulsundar2024@gmail.com-red?style=flat&logo=gmail)](mailto:vishalfulsundar2024@gmail.com)
+([![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=flat&logo=firefox)](https://vishalgwu.github.io/vishal-portfolio/)
 
 ---
 
