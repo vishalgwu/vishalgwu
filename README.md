@@ -1,6 +1,6 @@
 # Hi, I'm Vishal Fulsundar 👋
 
-MS Data Science @ George Washington University (GPA 3.81)  
+MS Data Science @ George Washington University (GPA 3.87)  
 Building production ML systems, multi-agent AI pipelines, and LLM research.  
 Previously founded a B2C SaaS startup (200 shops, 10K customers) and shipped ML in production at Xampus.
 
@@ -12,9 +12,9 @@ Previously founded a B2C SaaS startup (200 shops, 10K customers) and shipped ML 
 
 ## What I'm working on
 
-- 🔬 **LLM Research** — Studying attractor dynamics and temperature effects in LLMs using Neuronpedia. Found that LLM outputs collapse into 2-cycle attractors at low temperature, mirroring logistic-map period-doubling behavior.
-- 🤖 **Multi-agent AI systems** — RAG pipelines, travel planning agents, document Q&A at production latency
-- ☁️ **AWS data engineering** — Serverless pipelines, PySpark ETL, Bedrock integrations
+-  **LLM Research** — Studying attractor dynamics and temperature effects in LLMs using Neuronpedia. Found that LLM outputs collapse into 2-cycle attractors at low temperature, mirroring logistic-map period-doubling behavior.
+-  **Multi-agent AI systems** — RAG pipelines, travel planning agents, document Q&A at production latency
+-  **AWS data engineering** — Serverless pipelines, PySpark ETL, Bedrock integrations
 
 ---
 
