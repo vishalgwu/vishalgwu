@@ -1,4 +1,4 @@
-# Hi, I'm Vishal Fulsundar 👋
+# Hi, I'm Vishal Fulsundar 
 
 MS Data Science @ George Washington University (GPA 3.87)  
 Building production ML systems, multi-agent AI pipelines, and LLM research.  
