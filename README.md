@@ -2,7 +2,7 @@
 
 MS Data Science @ George Washington University (GPA 3.87)  
 Building production ML systems, multi-agent AI pipelines, and LLM research.  
-Previously founded a B2C SaaS startup (200 shops, 10K customers) and shipped ML in production at Xampus.
+Previously founded a B2C SaaS startup (221 shops, 12K customers) and shipped ML in production at Xampus.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vishalfulsundar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishalfulsundar/)
 [![Email](https://img.shields.io/badge/Email-vishalfulsundar2025@gmail.com-red?style=flat&logo=gmail)](mailto:vishalfulsundar2025@gmail.com)
@@ -60,4 +60,4 @@ Extractive vs abstractive summarization using transformers on BBC News data.
 
 ---
 
-*GWU M.S. Data Science · Expected May 2026*
+*GWU M.S. Data Science ·  May 2026*
