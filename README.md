@@ -8,11 +8,26 @@ Previously founded a B2C SaaS startup (221 shops, 12K customers) and shipped ML 
 [![Email](https://img.shields.io/badge/Email-vishalfulsundar2025@gmail.com-red?style=flat&logo=gmail)](mailto:vishalfulsundar2025@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=flat&logo=firefox)](https://vishalgwu.github.io/vishal-portfolio/)
 
+### 🎬 [Explore my cinematic, Netflix-style portfolio →](https://vishalgwu.github.io/vishal-portfolio/)
+Browse every project by category, open full architecture breakdowns, or hit **Recruiter 60-Second Snapshot** for the short version. Source: [vishalgwu/vishal-portfolio](https://github.com/vishalgwu/vishal-portfolio).
+
 
 
 ---
 
 ## Featured Projects
+
+| Project | What it is | Highlights (from each repo's README) |
+|---|---|---|
+| [GuardMem AI](https://github.com/vishalgwu/HGEM) | Memory governance gateway for long-running LLM agents (MCP + REST, Postgres RLS, hash-chained audit log) | No verbatim span, no write; fail-closed by design; still in active build |
+| [Resident OS](https://github.com/vishalgwu/tento-agents) | Multi-agent maintenance workflow for apartment communities | Hybrid BM25 + pgvector retrieval with cross-encoder rerank; deterministic life-safety screening |
+| [HR Agentic RAG Copilot](https://github.com/vishalgwu/Enterprise-HR-Policy-And-Employee-Support-Agentic-Rag-Copilot) | 11-node LangGraph agent that grades evidence or refuses | 21/21 routing and grading decisions correct; 230 offline tests |
+| [Latent Instability Diagnostics](https://github.com/vishalgwu/Latent-Instability-Diagnostics-LID) | Flags LLM hallucinations a token before they are emitted | 0.71 AUROC on TruthfulQA at 15-20% overhead |
+| [Fashion Image Captioner](https://github.com/vishalgwu/Image_caption_generator) | 48M-parameter CNN-Transformer vs Qwen2-VL and BLIP-2 | 0.82 CIDEr; p95 latency down 41% with vLLM |
+| [WillDocs RAG](https://github.com/vishalgwu/Will_Docs) | Streaming PDF chat on LlamaIndex + Qdrant + FastAPI | recall@5 71% to 84% with hybrid search and reranking |
+| [Jarvis Job Globe](https://github.com/vishalgwu/job-globe.com) | Geospatial job discovery on a WebGL globe | [Live demo](https://job-globe-com-web.vercel.app) |
+
+👉 All 24 projects, with architecture diagrams and metrics, are in the [portfolio](https://vishalgwu.github.io/vishal-portfolio/).
 
 
 ---
