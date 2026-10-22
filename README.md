@@ -19,6 +19,7 @@ Browse every project by category, open full architecture breakdowns, or hit **Re
 
 | Project | What it is | Highlights (from each repo's README) |
 |---|---|---|
+| [AI Engineering Roadmap 2026](https://github.com/vishalgwu/ultimate-ai-engineering-roadmap-2026) | Open-source, code-first guide to production AI engineering: 19 chapters on RAG, evals, agents, fine-tuning, serving and safety, delivered as a Netflix-style reading app | 187 concept sections, 271 code blocks, structural audit with 0 issues; 144 sections executed clean, 35 syntax-checked only; [Live site](https://ai-engineering-roadmap-2026-omega.vercel.app) |
 | [Maryland UI Pulse](https://github.com/vishalgwu/maryland-ui-timeliness) | Live analytics app on how fast Maryland pays unemployment insurance, benchmarked against every US state (interactive map, trends, claims forecast, Power BI report) | 72.5% paid within 21 days vs the 87% federal standard, 48th of 53; [Live demo](https://maryland-ui-pulse.vercel.app) |
 | [GuardMem AI](https://github.com/vishalgwu/HGEM) | Memory governance gateway for long-running LLM agents (MCP + REST, Postgres RLS, hash-chained audit log) | No verbatim span, no write; fail-closed by design; still in active build |
 | [Resident OS](https://github.com/vishalgwu/tento-agents) | Multi-agent maintenance workflow for apartment communities | Hybrid BM25 + pgvector retrieval with cross-encoder rerank; deterministic life-safety screening |
@@ -28,7 +29,7 @@ Browse every project by category, open full architecture breakdowns, or hit **Re
 | [WillDocs RAG](https://github.com/vishalgwu/Will_Docs) | Streaming PDF chat on LlamaIndex + Qdrant + FastAPI | recall@5 71% to 84% with hybrid search and reranking |
 | [Jarvis Job Globe](https://github.com/vishalgwu/job-globe.com) | Geospatial job discovery on a WebGL globe | [Live demo](https://job-globe-com-web.vercel.app) |
 
-👉 All 25 projects, with architecture diagrams and metrics, are in the [portfolio](https://vishalgwu.github.io/vishal-portfolio/).
+👉 All 26 projects, with architecture diagrams and metrics, are in the [portfolio](https://vishalgwu.github.io/vishal-portfolio/).
 
 
 ---
