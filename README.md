@@ -36,13 +36,13 @@ I build production ML systems, multi-agent AI pipelines and LLM research. Curren
 
 | Project | What it is | Results (from each repo) |
 |---|---|---|
+| [Tento Resident OS](https://github.com/vishalgwu/tento-agents) | Deployed GenAI maintenance platform with Next.js, FastAPI, GPT-4.1-mini, LangGraph, Supabase and Upstash | Four role workspaces; tenant-scoped policy retrieval; durable jobs; 339 passing Python tests; [live application](https://tento-resident-os.vercel.app/) |
 | [HR Agentic RAG Copilot](https://github.com/vishalgwu/Enterprise-HR-Policy-And-Employee-Support-Agentic-Rag-Copilot) | Production agentic RAG: 11-node LangGraph agent, supervisor-worker team, hybrid retrieval, guardrails, approval queue and a cost model | 21/21 routing and grading decisions; 652 offline tests, zero lint findings; answers with no API keys at all; [live demo](https://hr-policy-copilot.vercel.app) |
 | [AI Engineering Roadmap 2026](https://github.com/vishalgwu/ultimate-ai-engineering-roadmap-2026) | Code-first guide to production AI engineering, delivered as a reading app | 19 chapters, 187 sections; audit with 0 issues; [live site](https://ai-engineering-roadmap-2026-omega.vercel.app) |
 | [LLMOps Interview Preparation](https://github.com/vishalgwu/llmops-interview-preparation) | Serving, guardrails, observability and evaluation curriculum | 20 modules, 142 episodes; [live site](https://llmops-interview-preparation.vercel.app) |
 | [MLOps Interview Preparation](https://github.com/vishalgwu/mlops-interview-preparation) | Full ML lifecycle curriculum with runnable code and post-mortems | 22 modules, 255 episodes; [live site](https://mlops-interview-preparation.vercel.app) |
 | [Maryland UI Pulse](https://github.com/vishalgwu/maryland-ui-timeliness) | Analytics app on how fast Maryland pays unemployment insurance | 72.5% paid within 21 days vs the 87% standard, 48th of 53; [live demo](https://maryland-ui-pulse.vercel.app) |
 | [GuardMem AI](https://github.com/vishalgwu/HGEM) | Memory governance gateway for long-running LLM agents | MCP + REST, Postgres RLS, hash-chained audit log; in active build |
-| [Resident OS](https://github.com/vishalgwu/tento-agents) | Multi-agent maintenance workflow for apartment communities | Hybrid BM25 + pgvector retrieval with cross-encoder rerank |
 | [Latent Instability Diagnostics](https://github.com/vishalgwu/Latent-Instability-Diagnostics-LID) | Flags LLM hallucinations a token before they are emitted | 0.71 AUROC on TruthfulQA at 15-20% overhead |
 | [Fashion Image Captioner](https://github.com/vishalgwu/Image_caption_generator) | 48M-parameter CNN-Transformer vs Qwen2-VL and BLIP-2 | 0.82 CIDEr; p95 latency down 41% with vLLM |
 | [WillDocs RAG](https://github.com/vishalgwu/Will_Docs) | Streaming PDF chat on LlamaIndex, Qdrant and FastAPI | recall@5 from 71% to 84% |
