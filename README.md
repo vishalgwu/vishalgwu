@@ -23,10 +23,11 @@ I build production ML systems, multi-agent AI pipelines and LLM research. Curren
 
 ## Experience
 
-| | |
-|---|---|
-| **Data Scientist** · Xampus | Recommender system over 21M records (50 features), A/B tested to a 17% subscription lift. 12 production Tableau dashboards cut low-ROI ad spend by 30%. |
-| **Founder** · Stoffer | B2C SaaS startup scaled to 220 shops and 12K customers; made a data-driven exit after identifying an unsustainable $50K funding gap. |
+| Role & employer | Dates | Selected work |
+|---|---|---|
+| **Forward Deployed Engineer · CrossCountry Consulting** | Jan 2026 – Present | Built FastAPI services for Coupa-to-ERP accrual workflows with 94% auto-match. Reduced reviewer preparation from 11 to 5 minutes across 80 paired invoice trials using LangGraph and policy retrieval, with controller approval gates. |
+| **ML Engineer · Zoho** | Sep 2022 – Jul 2024 | Built leakage-safe CRM lead-scoring features and scikit-learn classifiers. Improved precision from 61% to 68% across 1,200 labeled leads while retaining 72% recall, using chronological holdout validation and threshold tuning. |
+| **Data Analyst · Cactus Communications** | Jun 2021 – May 2022 | Used SQL and Python to reconcile editorial workflow records, standardize timestamps, and produce operational reports. Reduced weekly manuscript status discrepancies from 18 to 8. |
 
 ## Education
 
