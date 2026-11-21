@@ -6,10 +6,20 @@
 <a href="https://www.linkedin.com/in/vishalfulsundar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:vishalfulsundar2025@gmail.com"><img src="https://img.shields.io/badge/Email-5E6670?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://vishalgwu.github.io/vishal-portfolio/resume/"><img src="https://img.shields.io/badge/Resume-5E6670?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://portfolio-vi-sigma.vercel.app"><img src="https://img.shields.io/badge/Portfolio%20VI-GTA%20edition-FF2E93?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio VI, GTA edition"></a>
 
 <br><br>
 
 <img src="assets/impact.svg" alt="Impact: 94% Coupa-to-ERP auto-match, reviewer prep cut from 11 to 5 minutes, lead-scoring precision 61 to 68%, weekly status discrepancies 18 to 8" width="100%">
+
+<br><br>
+
+<a href="https://portfolio-vi-sigma.vercel.app"><img src="assets/portfolio-vi.svg" alt="Portfolio VI, now playing: a sunset-and-neon, game-world portfolio where every project is a mission" width="100%"></a>
+
+**🌴 Plot twist: my portfolio has a GTA 6 edition.**
+Scroll through a Vice City sunset, pick from 35 missions, explore five districts on the map and clear the story mode (a.k.a. my résumé). Watch the radar, chase the wanted stars, and hit *Watch trailer*.
+**[▶ Press start → portfolio-vi-sigma.vercel.app](https://portfolio-vi-sigma.vercel.app)**
+<sub>Fan-made homage drawn entirely in code. Not affiliated with Rockstar Games or Take-Two Interactive. Prefer the calm, channel-style version? [It's here](https://vishalgwu.github.io/vishal-portfolio/).</sub>
 
 </div>
 
