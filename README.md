@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/profile-card.svg" alt="Vishal Fulsundar, AI Systems and Data Science Engineer. Forward Deployed Engineer at CrossCountry Consulting. M.S. Data Science, George Washington University" width="100%">
+<img src="assets/profile-card.svg" alt="Vishal Fulsundar, AI Systems and Data Science Engineer. Forward Deployed Engineer at Snowflake. M.S. Data Science, George Washington University" width="100%">
 
 <a href="https://vishalgwu.github.io/vishal-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/vishalfulsundar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:vishalfulsundar2025@gmail.com"><img src="https://img.shields.io/badge/Email-5E6670?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:vishalfulsundar2026@gmail.com"><img src="https://img.shields.io/badge/Email-5E6670?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://vishalgwu.github.io/vishal-portfolio/resume/"><img src="https://img.shields.io/badge/Resume-5E6670?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 <a href="https://portfolio-vi-sigma.vercel.app"><img src="https://img.shields.io/badge/Portfolio%20VI-GTA%20edition-FF2E93?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio VI, GTA edition"></a>
 
@@ -46,7 +46,7 @@ Outside of work I build and publish agent systems, evaluation harnesses and LLM 
 
 ## Experience
 
-### Forward Deployed Engineer · CrossCountry Consulting
+### Forward Deployed Engineer · Snowflake
 *Jan 2026 – Present · VA, USA*
 
 - Scoped Coupa-to-ERP accrual automation through **six controller workshops**, turning 18 purchase-order exceptions into testable matching, approval and posting requirements, and demoed a prototype within **nine days**.
@@ -126,5 +126,5 @@ Extractive versus abstractive summarization with transformers on BBC News data.
 ---
 
 <div align="center">
-<sub>Want to talk? <a href="mailto:vishalfulsundar2025@gmail.com">Email me</a> or <a href="https://www.linkedin.com/in/vishalfulsundar/">connect on LinkedIn</a>.</sub>
+<sub>Want to talk? <a href="mailto:vishalfulsundar2026@gmail.com">Email me</a> or <a href="https://www.linkedin.com/in/vishalfulsundar/">connect on LinkedIn</a>.</sub>
 </div>
